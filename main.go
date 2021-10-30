@@ -8,5 +8,5 @@ func main()  {
 	//function.FizzBuss(100)
 	function.Palindrome("katak")
 	function.PalindromeComparePerChar("AjikA")
-	function.PalindromeComparePerChar("kattak")
+	function.PalindromeRecursive("kattak")
 }
